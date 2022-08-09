@@ -16,7 +16,7 @@
   "maskableIconUrl": "https://exigentduality.com/GassyGirl/images/icon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
-    "path": "C:\\Users\\G512821\\.android\\production.keystore",
+    "path": "C:\\Users\\G512821\\.android\\presigning.keystore",
     "alias": "exigentduality.com"
   },
   "appVersionName": "1",
