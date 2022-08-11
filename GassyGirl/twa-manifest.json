@@ -19,8 +19,8 @@
     "path": "C:\\Users\\G512821\\.android\\presigning.keystore",
     "alias": "exigentduality.com"
   },
-  "appVersionName": "2",
-  "appVersionCode": 2,
+  "appVersionName": "3",
+  "appVersionCode": 3,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://exigentduality.com/GassyGirl/manifest.json",
@@ -42,5 +42,5 @@
   ],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "2"
+  "appVersion": "3"
 }
