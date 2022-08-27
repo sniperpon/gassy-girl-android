@@ -24,7 +24,7 @@ def twaManifest = [
     applicationId: 'com.exigentduality.gassygirl',
     hostName: 'exigentduality.com', // The domain being opened in the TWA.
     launchUrl: '/GassyGirl/', // The start path for the TWA. Must be relative to the domain.
-    name: 'Gassy Girl', // The application name.
+    name: 'Gassy Girl Mileage Tracker', // The application name.
     launcherName: 'Gassy Girl', // The name shown on the Android Launcher.
     themeColor: '#3769A5', // The color used for the status bar.
     navigationColor: '#000000', // The color used for the navigation bar.
@@ -55,8 +55,8 @@ android {
         applicationId "com.exigentduality.gassygirl"
         minSdkVersion 19
         targetSdkVersion 31
-        versionCode 3
-        versionName "3"
+        versionCode 4
+        versionName "4"
 
         // The name for the application
         resValue "string", "appName", twaManifest.name
@@ -197,6 +197,6 @@ repositories {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     
-        implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.3.0'
+        implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.4.0'
     
 }

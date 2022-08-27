@@ -1,7 +1,7 @@
 {
   "packageId": "com.exigentduality.gassygirl",
   "host": "exigentduality.com",
-  "name": "Gassy Girl",
+  "name": "Gassy Girl Mileage Tracker",
   "launcherName": "Gassy Girl",
   "display": "standalone",
   "themeColor": "#3769A5",
@@ -16,11 +16,11 @@
   "maskableIconUrl": "https://exigentduality.com/GassyGirl/images/icon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
-    "path": "C:\\Users\\G512821\\.android\\presigning.keystore",
+    "path": "/Users/sniper/Documents/Projects/android/presigning.keystore",
     "alias": "exigentduality.com"
   },
-  "appVersionName": "3",
-  "appVersionCode": 3,
+  "appVersionName": "4",
+  "appVersionCode": 4,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://exigentduality.com/GassyGirl/manifest.json",
@@ -35,12 +35,8 @@
   "fullScopeUrl": "https://exigentduality.com/GassyGirl/",
   "minSdkVersion": 19,
   "orientation": "default",
-  "fingerprints": [
-    {
-      "value": "44:90:A2:0F:8A:4F:A7:DC:FD:AD:D0:61:9F:5F:C9:03:E0:9F:E9:D5:D4:E1:D4:4C:D8:5C:BC:B9:3A:6F:9B:B1"
-    }
-  ],
+  "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "3"
+  "appVersion": "4"
 }
