@@ -1,0 +1,42 @@
+{
+  "packageId": "com.exigentduality.gassygirl",
+  "host": "exigentduality.com",
+  "name": "Gassy Girl Mileage Tracker",
+  "launcherName": "Gassy Girl",
+  "display": "standalone",
+  "themeColor": "#3769A5",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#444444",
+  "enableNotifications": true,
+  "startUrl": "/GassyGirl/",
+  "iconUrl": "https://exigentduality.com/GassyGirl/images/icon-512.png",
+  "maskableIconUrl": "https://exigentduality.com/GassyGirl/images/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/Users/sniper/Documents/Projects/android/presigning.keystore",
+    "alias": "exigentduality.com"
+  },
+  "appVersionName": "5",
+  "appVersionCode": 5,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://exigentduality.com/GassyGirl/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://exigentduality.com/GassyGirl/",
+  "minSdkVersion": 19,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "5"
+}
