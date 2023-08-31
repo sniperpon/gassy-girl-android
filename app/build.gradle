@@ -50,13 +50,13 @@ def twaManifest = [
 ]
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 33
     defaultConfig {
         applicationId "com.exigentduality.gassygirl"
         minSdkVersion 19
-        targetSdkVersion 31
-        versionCode 5
-        versionName "5"
+        targetSdkVersion 33
+        versionCode 7
+        versionName "7"
 
         // The name for the application
         resValue "string", "appName", twaManifest.name

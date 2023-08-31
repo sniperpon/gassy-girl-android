@@ -13,14 +13,13 @@
   "enableNotifications": true,
   "startUrl": "/GassyGirl/",
   "iconUrl": "https://exigentduality.com/GassyGirl/images/icon-512.png",
-  "maskableIconUrl": "https://exigentduality.com/GassyGirl/images/icon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/Users/sniper/Documents/Projects/android/presigning.keystore",
     "alias": "exigentduality.com"
   },
-  "appVersionName": "5",
-  "appVersionCode": 5,
+  "appVersionName": "7",
+  "appVersionCode": 7,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://exigentduality.com/GassyGirl/manifest.json",
@@ -38,5 +37,5 @@
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "5"
+  "appVersion": "7"
 }
